@@ -4,6 +4,7 @@ A list of optimization packages with the same API as scipy.optimize
 Tired of reformulating your optimization problem?
 Below is a list of packages which use the same API as scipy.optimize.
 
+* [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize): Bayesian optimization, surrogate model optimization
 * [stochopy](https://github.com/keurfonluu/stochopy): Parallel stochastic optimization including differential evolution, PSO and CMA-ES
 * [psopy](https://github.com/jerrytheo/psopy): Particle swarm optimization
 * [pdfo](https://github.com/pdfo/pdfo): Wrappers for M. J. D. Powell's derivative free optimizers BOBYQA, COBYLA, LINCOA
